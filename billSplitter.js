@@ -12,3 +12,4 @@ console.log (`tipAmount: ${{tipAmount}}`);
 console.log (`taxAmount: ${{taxAmount}}`);
 console.log (`totalAmount: ${totalAmount}`);
 console.log (`individual Bill: ${individualBill}`);
+
