@@ -1,4 +1,4 @@
-let day = 2;
+let day = 3;
 let dayName;
 
 switch(day) {
@@ -29,6 +29,3 @@ switch(day) {
 }
 
 console.log("Day name:", dayName);
-
-
-.
