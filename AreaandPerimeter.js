@@ -1,5 +1,5 @@
-/* Rectangle Area  = L * W , Rectangle Perimeter = 2*L+W
-Circle Area = PI * r * r ,  Perimeter of Circle = 2*PI*r
+/*Rectangle Area  = L * W , Rectangle Perimeter = 2*L+ W
+Circle Area = PI * r*r ,  Perimeter of Circle = 2*PI*r
 */
 
 const PI = 3.14;
