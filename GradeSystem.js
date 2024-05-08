@@ -18,3 +18,5 @@ if (testScore >= 90 && testScore <= 100) {
 }
  
 console.log(`grade: ${grade} and testScore: ${testScore}`);
+     
+ /**//** */
