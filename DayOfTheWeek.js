@@ -30,5 +30,3 @@ switch(day) {
 
 console.log("Day name:", dayName);
 
-
-.
