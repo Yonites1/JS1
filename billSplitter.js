@@ -3,6 +3,7 @@ let numberOfPeople = 6;
 let tipPercentages = 20;
 let taxPercentages = 10;
 
+let tipAmount = (totalBillAmout * tipPercentages)/100;
 let taxAmount = (totalBillAmount * taxPercentages)/100;
 let totalAmount = totalBillAmount + tipAmount + taxAmount;
 let individualBill = totalAmount / numberOfPeople;
