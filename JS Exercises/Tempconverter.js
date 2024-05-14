@@ -1,4 +1,3 @@
-
 let celTemp = 30; /* Declared variables for both Celsius & Fahrenheit */ 
 let farTemp = 90;
 
@@ -18,5 +17,4 @@ console.log("\nConverted Temperature:")
 console.log("Celsius:", convCelTemp)
 console.log("Fahrenheit:", convFarTemp)
 
-
-/* */
+/**///
