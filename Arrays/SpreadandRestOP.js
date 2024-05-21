@@ -38,7 +38,7 @@ const multiply = (number1, ...Numbers)=> {
       this short formula will replace 
       let product = 1;
      Numbers.forEach(Number=> {
-        product *=Number;  
+        product *=Number;  1
      })
 
      return number1 * product; 
